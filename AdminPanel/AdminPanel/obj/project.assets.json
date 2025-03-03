@@ -4744,11 +4744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CorkAdmin-M\\CorkAdmin-MVC\\AdminPanel\\AdminPanel\\AdminPanel.csproj",
+      "projectUniqueName": "D:\\New folder (16)\\CorkAdmin-MVC\\AdminPanel\\AdminPanel\\AdminPanel.csproj",
       "projectName": "AdminPanel",
-      "projectPath": "D:\\CorkAdmin-M\\CorkAdmin-MVC\\AdminPanel\\AdminPanel\\AdminPanel.csproj",
+      "projectPath": "D:\\New folder (16)\\CorkAdmin-MVC\\AdminPanel\\AdminPanel\\AdminPanel.csproj",
       "packagesPath": "C:\\Users\\BayanGP\\.nuget\\packages\\",
-      "outputPath": "D:\\CorkAdmin-M\\CorkAdmin-MVC\\AdminPanel\\AdminPanel\\obj\\",
+      "outputPath": "D:\\New folder (16)\\CorkAdmin-MVC\\AdminPanel\\AdminPanel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
