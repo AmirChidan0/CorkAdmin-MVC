@@ -24,6 +24,9 @@
 
   <ItemGroup>
     <Folder Include="Views\Shared\Components\" />
+    <Folder Include="wwwroot\Cork\" />
+    <Folder Include="wwwroot\Fonts\" />
+    <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
 </Project>
