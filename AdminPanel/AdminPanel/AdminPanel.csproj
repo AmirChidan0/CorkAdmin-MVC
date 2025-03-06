@@ -23,7 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="VeiwComponents\" />
     <Folder Include="Views\Shared\Components\" />
   </ItemGroup>
 
